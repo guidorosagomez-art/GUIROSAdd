@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360_f_322882600_y6jbonld7yldrru5lfqreuq8yuwasfgg-1",
-      "name": "360_F_322882600_y6JbONLD7YLdRrU5LFQReuq8YUwasfgg (1)",
+      "id": "0-360-degrees-home-interior-photo",
+      "name": "360-degrees-home-interior-photo",
       "levels": [
         {
           "tileSize": 256,
@@ -14,7 +14,7 @@ var APP_DATA = {
           "size": 512
         }
       ],
-      "faceSize": 270,
+      "faceSize": 490,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
