@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360-degrees-home-interior-photo",
-      "name": "360-degrees-home-interior-photo",
+      "id": "0-ella-seq-iejad",
+      "name": "ELLA SEQ IEJAD",
       "levels": [
         {
           "tileSize": 256,
@@ -14,7 +14,7 @@ var APP_DATA = {
           "size": 512
         }
       ],
-      "faceSize": 490,
+      "faceSize": 450,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -26,9 +26,9 @@ var APP_DATA = {
   ],
   "name": "Project Title",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
